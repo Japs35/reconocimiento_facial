@@ -3,7 +3,7 @@ import os
 import json
 import time
 
-# TAG de prueba
+# TAG de prueba 2
 
 # Pedir detalles del usuario
 nombre_usuario = input("Introduce tu nombre de usuario: ").strip()
