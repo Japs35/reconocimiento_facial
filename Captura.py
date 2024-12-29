@@ -3,6 +3,8 @@ import os
 import json
 import time
 
+# TAG de prueba
+
 # Pedir detalles del usuario
 nombre_usuario = input("Introduce tu nombre de usuario: ").strip()
 nombre_completo = input("Introduce tu nombre completo: ").strip()

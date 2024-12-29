@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a79c3054-5e32-4fb9-92ec-ac82a1d20d66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Reconocimiento facial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Captura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entrenamiento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prueba camara.py" afterDir="false" />
+    <list default="true" id="a79c3054-5e32-4fb9-92ec-ac82a1d20d66" name="Changes" comment="primera version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Captura.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Japs35"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Japs35/reconocimiento_facial.git",
+    "accountId": "9ee89385-9987-4a5a-bd1e-fc62f8150d25"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -166,6 +169,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726986269613</updated>
     </task>
+    <task id="LOCAL-00001" summary="primera version">
+      <option name="closed" value="true" />
+      <created>1735493873630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735493873630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primera version" />
+    <option name="LAST_COMMIT_MESSAGE" value="primera version" />
   </component>
 </project>
