@@ -4,9 +4,167 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a79c3054-5e32-4fb9-92ec-ac82a1d20d66" name="Changes" comment="primera version">
+    <list default="true" id="a79c3054-5e32-4fb9-92ec-ac82a1d20d66" name="Changes" comment="tag de prueba 4">
+      <change afterPath="$PROJECT_DIR$/Deteccion 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deteccion01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deteccion02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo federal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Captura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Captura.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +202,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Captura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Entrenamiento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SRF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prueba camara.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Captura.executor": "Run",
+    "Python.Deteccion 3.executor": "Run",
+    "Python.Deteccion01.executor": "Run",
+    "Python.Deteccion02.executor": "Run",
+    "Python.Entrenamiento.executor": "Run",
+    "Python.SRF.executor": "Run",
+    "Python.prueba camara.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.SRF">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jorge\Documents\RRNN\Pycharm\Reconocimiento facial\Reconocimiento facial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Deteccion 3">
     <configuration name="Captura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reconocimiento facial" />
       <option name="ENV_FILES" value="" />
@@ -78,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Entrenamiento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Deteccion 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reconocimiento facial" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +257,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Entrenamiento.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deteccion 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Deteccion01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reconocimiento facial" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deteccion01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Deteccion02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reconocimiento facial" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deteccion02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,34 +332,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba camara" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Reconocimiento facial" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba camara.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Deteccion 3" />
+        <item itemvalue="Python.Deteccion02" />
+        <item itemvalue="Python.Deteccion01" />
         <item itemvalue="Python.SRF" />
-        <item itemvalue="Python.Entrenamiento" />
         <item itemvalue="Python.Captura" />
-        <item itemvalue="Python.prueba camara" />
       </list>
     </recent_temporary>
   </component>
@@ -177,11 +366,46 @@
       <option name="project" value="LOCAL" />
       <updated>1735493873630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tag de prueba">
+      <option name="closed" value="true" />
+      <created>1735494314694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494314695</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tag de prueba">
+      <option name="closed" value="true" />
+      <created>1735494441294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494441294</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tag de prueba 3">
+      <option name="closed" value="true" />
+      <created>1735494491142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494491142</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tag de prueba 4">
+      <option name="closed" value="true" />
+      <created>1735494623795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494623795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primera version" />
-    <option name="LAST_COMMIT_MESSAGE" value="primera version" />
+    <MESSAGE value="tag de prueba" />
+    <MESSAGE value="tag de prueba 3" />
+    <MESSAGE value="tag de prueba 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="tag de prueba 4" />
   </component>
 </project>
