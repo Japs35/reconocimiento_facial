@@ -4,174 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a79c3054-5e32-4fb9-92ec-ac82a1d20d66" name="Changes" comment="tag de prueba 5">
-      <change afterPath="$PROJECT_DIR$/camara ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/captura3ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prueba3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prueba4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Reconocimiento facial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reconocimiento facial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a79c3054-5e32-4fb9-92ec-ac82a1d20d66" name="Changes" comment="tag de prueba 6">
+      <change afterPath="$PROJECT_DIR$/pruebaCuda1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Captura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Captura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entrenamiento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entrenamientook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prueba 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_73.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Denis Chavez/Denis Chavez_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_73.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_76.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes_entrenamiento/Jorge Perales/Jorge Perales_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labels_dict.npy" beforeDir="false" afterPath="$PROJECT_DIR$/labels_dict.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo_reconocimiento.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modelo_reconocimiento.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,12 +29,12 @@
     &quot;assignee&quot;: &quot;Japs35&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Japs35/reconocimiento_facial.git&quot;,
-    &quot;accountId&quot;: &quot;9ee89385-9987-4a5a-bd1e-fc62f8150d25&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Japs35/reconocimiento_facial",
+    "accountId": "d69e7db5-6eaa-40f3-a8ee-0cd08d88791d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -413,7 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735494623795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tag de prueba 5">
+      <option name="closed" value="true" />
+      <created>1737700424116</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737700424116</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tag de prueba 6">
+      <option name="closed" value="true" />
+      <created>1737700743903</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737700743903</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -422,7 +273,8 @@
     <MESSAGE value="tag de prueba 3" />
     <MESSAGE value="tag de prueba 4" />
     <MESSAGE value="tag de prueba 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="tag de prueba 5" />
+    <MESSAGE value="tag de prueba 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="tag de prueba 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
