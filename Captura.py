@@ -1,7 +1,7 @@
 import cv2
 import os
 import json
-import time
+#import time
 
 # TAG de prueba 4
 
@@ -38,8 +38,9 @@ with open(data_file, 'w') as f:
     json.dump(usuarios_data, f, indent=4)
 
 # Capturar video desde la cámara
-camera_ip_url = "rtsp://admin:123456abc@@192.168.1.64:554/stream"
-cap = cv2.VideoCapture(camera_ip_url, cv2.CAP_FFMPEG)
+camera_ip_url = "rtsp://admin:123456abc@192.168.1.64:554/stream"
+#cap = cv2.VideoCapture(camera_ip_url, cv2.CAP_FFMPEG)
+cap = cv2.VideoCapture(camera_ip_url)
 
 #cap = cv2.VideoCapture(0)
 

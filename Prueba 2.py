@@ -8,7 +8,7 @@ camera_2_url = "rtsp://admin:123456abc@@192.168.1.65:554/stream"
 
 # Parámetros de resolución
 desired_width = 640
-desired_height = 480
+desired_height = 360
 
 # Cargar el clasificador Haarcascade
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
@@ -23,7 +23,7 @@ stop_event = threading.Event()
 
 # Función para procesar una cámara
 def process_camera(camera_url, camera_name):
-    cap = cv2.VideoCapture(camera_url, cv2.CAP_FFMPEG)
+    cap = cv2.VideoCapture(camera_url)
 
     # Verificar si la cámara se abre correctamente
     if not cap.isOpened():
